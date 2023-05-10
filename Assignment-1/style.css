@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 2rem;
+}
+
+p{
+    margin: 3rem;
+    padding: 2rem;
+    text-align: center;
+}
